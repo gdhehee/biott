@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for Microsoft recovery assistance",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^14.0.3",
+    "puppeteer": "^21.0.0",
+    "dotenv": "^16.0.3"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "YourName",
+  "license": "MIT"
+}
